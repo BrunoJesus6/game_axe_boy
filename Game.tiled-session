@@ -5,11 +5,11 @@
     },
     "activeFile": "src/assets/mapJson/tiled/mapTiled.tmx",
     "expandedProjectPaths": [
-        "src/assets/mapJson",
-        "src/assets/mapJson/tiled",
-        ".",
         "src",
-        "src/assets"
+        "src/assets/mapJson",
+        ".",
+        "src/assets",
+        "src/assets/mapJson/tiled"
     ],
     "fileStates": {
         "": {

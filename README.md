@@ -48,7 +48,7 @@
 1. **Clone ou baixe o repositório**
 
    ```bash
-   git clone [URL_DO_REPOSITORIO]
+   git clone https://github.com/BrunoJesus6/game_axe_boy.git
    cd game
    ```
 
