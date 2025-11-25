@@ -49,7 +49,6 @@
 
    ```bash
    git clone https://github.com/BrunoJesus6/game_axe_boy.git
-   cd game
    ```
 
 2. **Inicie um servidor HTTP local**
